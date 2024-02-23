@@ -1,0 +1,2 @@
+# enkapsulasi
+tugas sklh
